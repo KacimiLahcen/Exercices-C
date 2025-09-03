@@ -12,4 +12,7 @@ int main() {
     }else if ( T >= 100){
     printf("L’état de l’eau est Gaz \n");
     }
+
+
+    return 0;
 }
